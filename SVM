@@ -173,8 +173,6 @@ bt1=tk.Button(window,text='Show Movies',command=delay1)
 bt1.pack()
 canvas1.create_window(290, 180, window=bt1)
 
-import homepage
-
 window.mainloop()
 
 
